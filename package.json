@@ -1,0 +1,22 @@
+{
+  "name": "greenmart",
+  "version": "1.0.0",
+  "description": "online website to buy all green you need.",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "*",
+    "express-session": "^1.15.6",
+    "mongoose": "*",
+    "morgan": "*",
+    "nodemailer": "^4.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prtkpwr",
+  "license": "ISC"
+}
